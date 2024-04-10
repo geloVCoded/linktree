@@ -18,7 +18,7 @@ Projeto de introdução ao desenvolvimento front-end.
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".assets/printproj.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/printproj.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
