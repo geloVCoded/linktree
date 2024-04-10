@@ -18,7 +18,7 @@ Projeto de introdução ao desenvolvimento front-end.
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".assets/printproj.png" width="100%">
+  <img alt="Projeto DevLinks" src="https://github.com/geloVCoded/linktree/blob/main/printproj.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
