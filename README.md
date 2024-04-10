@@ -6,7 +6,7 @@ Projeto de introdução ao desenvolvimento front-end.
 
 <p align="center">
    
-   <a href="#-Tecnologias">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
@@ -18,7 +18,7 @@ Projeto de introdução ao desenvolvimento front-end.
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/printproj.png" width="100%">
+  <img alt="Projeto DevLinks" src=".assets/printproj.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
